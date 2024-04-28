@@ -1,46 +1,50 @@
-# Website-to-Chatbot
+<div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><div class="markdown-heading" dir="auto"><h1 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">网站到聊天机器人</font></font></h1><a id="user-content-website-to-chatbot" class="anchor" aria-label="永久链接：网站到聊天机器人" href="#website-to-chatbot"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">适用于每个网站的 ChatGPT</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">通过根据您的网站内容进行培训的个性化聊天机器人立即回答访问者的问题。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">用不到 40 行代码</font><font style="vertical-align: inherit;">创建</font></font><a href="https://www.thesamur.ai/sitegpt-alternative" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">SiteGPT</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">、</font></font><a href="https://www.thesamur.ai/chatbase-alternative" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Chatbase</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">、</font></font><a href="https://www.thesamur.ai/danteai-alternative" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Dante AI</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">、</font></font><a href="https://www.thesamur.ai/botsonic-alternatives" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Botsonic</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">、</font></font><a href="https://www.thesamur.ai/customgpt-alternative" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CustomGPT</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">、</font></font><a href="https://www.thesamur.ai/botpress-alternative" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Botpress</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">、</font></font><a href="https://www.thesamur.ai/botpress-alternative" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Chatbot AI等应用程序</font></font></a><font style="vertical-align: inherit;"></font></p>
+<details open="" class="details-reset border rounded-2">
+  <summary class="px-3 py-2">
+    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-device-camera-video">
+    <path d="M16 3.75v8.5a.75.75 0 0 1-1.136.643L11 10.575v.675A1.75 1.75 0 0 1 9.25 13h-7.5A1.75 1.75 0 0 1 0 11.25v-6.5C0 3.784.784 3 1.75 3h7.5c.966 0 1.75.784 1.75 1.75v.675l3.864-2.318A.75.75 0 0 1 16 3.75Zm-6.5 1a.25.25 0 0 0-.25-.25h-7.5a.25.25 0 0 0-.25.25v6.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-6.5ZM11 8.825l3.5 2.1v-5.85l-3.5 2.1Z"></path>
+</svg>
+    <span aria-label="视频说明 HeyBot_.Convert.your.Website.to.Chatbot.with.ChatGPT.mp4" class="m-1"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">HeyBot_.将您的网站转换为Chatbot.with.ChatGPT.mp4</font></font></span>
+    <span class="dropdown-caret"></span>
+  </summary>
 
-ChatGPT for every website 
+  <video src="https://private-user-images.githubusercontent.com/4326215/290984439-ef4a9654-dc72-41bb-8644-68454b3a3e33.mp4?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTQyNjkzNzUsIm5iZiI6MTcxNDI2OTA3NSwicGF0aCI6Ii80MzI2MjE1LzI5MDk4NDQzOS1lZjRhOTY1NC1kYzcyLTQxYmItODY0NC02ODQ1NGIzYTNlMzMubXA0P1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI0MDQyOCUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNDA0MjhUMDE1MTE1WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9ODEzNDE3ZmU5ZDI3MDMxNmYzMTQzMTVjZTM4MTNhMjNlMDBhODFkOGY0ZGQyZTI4M2VkNWNlMzAwOTIzNzFhOSZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmYWN0b3JfaWQ9MCZrZXlfaWQ9MCZyZXBvX2lkPTAifQ.24PnAbhjuZ2O8ePp903cvOAEzUhnlF1q6ZyLkWsFi7s" data-canonical-src="https://private-user-images.githubusercontent.com/4326215/290984439-ef4a9654-dc72-41bb-8644-68454b3a3e33.mp4?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTQyNjkzNzUsIm5iZiI6MTcxNDI2OTA3NSwicGF0aCI6Ii80MzI2MjE1LzI5MDk4NDQzOS1lZjRhOTY1NC1kYzcyLTQxYmItODY0NC02ODQ1NGIzYTNlMzMubXA0P1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI0MDQyOCUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNDA0MjhUMDE1MTE1WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9ODEzNDE3ZmU5ZDI3MDMxNmYzMTQzMTVjZTM4MTNhMjNlMDBhODFkOGY0ZGQyZTI4M2VkNWNlMzAwOTIzNzFhOSZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmYWN0b3JfaWQ9MCZrZXlfaWQ9MCZyZXBvX2lkPTAifQ.24PnAbhjuZ2O8ePp903cvOAEzUhnlF1q6ZyLkWsFi7s" controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="max-height:640px; min-height: 200px">
 
-Instantly answer your visitors' questions with a personalized chatbot trained on your website content.
+  </video>
+</details>
 
-Create app like [SiteGPT](https://www.thesamur.ai/sitegpt-alternative) , [Chatbase](https://www.thesamur.ai/chatbase-alternative) , [Dante AI](https://www.thesamur.ai/danteai-alternative) , [Botsonic](https://www.thesamur.ai/botsonic-alternatives) , [CustomGPT](https://www.thesamur.ai/customgpt-alternative) , [Botpress](https://www.thesamur.ai/botpress-alternative) , [Chatbot AI](https://www.thesamur.ai/botpress-alternative) in less than 40 lines of code
-
-https://github.com/Anil-matcha/Chatbase/assets/4326215/ef4a9654-dc72-41bb-8644-68454b3a3e33
-
-### Getting Started
-
-Code is up, ⭐ (Star) the repo to receive updates
-
-Replit and streamlit version coming soon
-
-Follow [Anil Chandra Naidu Matcha](https://twitter.com/matchaman11) on twitter for updates
-
-Subscribe to https://www.youtube.com/@AnilChandraNaiduMatcha for more such video tutorials
-
-### How to run ?
-
-1. Create a virtual environment in python https://docs.python.org/3/library/venv.html
-
-2. Run "pip install -r requirements.txt"
-
-3. Set OPENAI_API_KEY environment variable with your openai key
-
-4. Run "python main.py"
-
-5. Change url and query in code if you want to try with any other content
-
-To run streamlit app, follow the steps run "streamlit run streamlitui.py"
-
-### Demo link
-
-https://heybot.thesamur.ai/
-
-### Also check
-[Chat with PDF code](https://github.com/Anil-matcha/ChatPDF)
-
-[Chat with CSV code](https://github.com/Anil-matcha/Chat-With-Excel)
-
-[Chat with Youtube code](https://github.com/Anil-matcha/Chat-Youtube)
-
-[ChatGPT in Discord code](https://github.com/Anil-matcha/DiscordGPT)
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">入门</font></font></h3><a id="user-content-getting-started" class="anchor" aria-label="永久链接：开始使用" href="#getting-started"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">代码已发布，⭐（星标）存储库以接收更新</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Replit 和 Streamlit 版本即将推出</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在 Twitter 上</font><font style="vertical-align: inherit;">关注</font></font><a href="https://twitter.com/matchaman11" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Anil Chandra Naidu Matcha以获取最新动态</font></font></a><font style="vertical-align: inherit;"></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">订阅</font></font><a href="https://www.youtube.com/@AnilChandraNaiduMatcha" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://www.youtube.com/@AnilChandraNaiduMatcha</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">以获取更多此类视频教程</font></font></p>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">怎么跑？</font></font></h3><a id="user-content-how-to-run-" class="anchor" aria-label="永久链接： 如何运行？" href="#how-to-run-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ol dir="auto">
+<li>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在 python 中创建虚拟环境</font></font><a href="https://docs.python.org/3/library/venv.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://docs.python.org/3/library/venv.html</font></font></a></p>
+</li>
+<li>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">运行“pip install -rrequirements.txt”</font></font></p>
+</li>
+<li>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用您的 openai 密钥设置 OPENAI_API_KEY 环境变量</font></font></p>
+</li>
+<li>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">运行“python main.py”</font></font></p>
+</li>
+<li>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果您想尝试任何其他内容，请更改代码中的 url 和查询</font></font></p>
+</li>
+</ol>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">要运行streamlit应用程序，请按照以下步骤运行“streamlit run streamlitui.py”</font></font></p>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">演示链接</font></font></h3><a id="user-content-demo-link" class="anchor" aria-label="永久链接：演示链接" href="#demo-link"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><a href="https://heybot.thesamur.ai/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://heybot.thesamur.ai/</font></font></a></p>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">另请检查</font></font></h3><a id="user-content-also-check" class="anchor" aria-label="永久链接：另请检查" href="#also-check"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><a href="https://github.com/Anil-matcha/ChatPDF"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">与 PDF 代码聊天</font></font></a></p>
+<p dir="auto"><a href="https://github.com/Anil-matcha/Chat-With-Excel"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用 CSV 代码聊天</font></font></a></p>
+<p dir="auto"><a href="https://github.com/Anil-matcha/Chat-Youtube"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用 YouTube 代码聊天</font></font></a></p>
+<p dir="auto"><a href="https://github.com/Anil-matcha/DiscordGPT"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Discord 代码中的 ChatGPT</font></font></a></p>
+</article></div>
